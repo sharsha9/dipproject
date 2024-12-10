@@ -3,7 +3,7 @@ Project Title
 Face Recognition Using Classical Image Processing Techniques (FRUCIPT)
 
 Team Member
-Dileep Naidu Maripi
+harsha
 Project Overview
 This project implements a Face Recognition System using Classical Image Processing Techniques. The primary goal is to identify and recognize faces in a dataset based on their pixel-level similarities, enabling lightweight and interpretable recognition without relying on machine learning models. The system uses Euclidean distance for comparison and generates confidence scores to rank matches. Visual tools such as heatmaps and RGB histograms further aid in understanding the results.
 
@@ -63,6 +63,7 @@ visualization.py
 Contains functions for generating heatmaps and plotting RGB histograms for visual comparison.
 Output
 The system outputs the following:
+![image](https://github.com/user-attachments/assets/2d24b41f-218d-4d09-82c4-9215cf8756cf)
 
 Test Image: The input image selected by the user.
 Top Matches: The top three images in the dataset that are most similar to the test image.
@@ -72,6 +73,8 @@ Confidence Scores: Numerical scores indicating the reliability of matches.
 Example Outputs
 Example 1
 Recognition Result:
+
+
 
 Test Image: Aaron Eckhart
 Top Match: Bridget Fonda
